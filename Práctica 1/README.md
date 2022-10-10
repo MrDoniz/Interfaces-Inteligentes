@@ -1,6 +1,6 @@
 # Práctica 1.
 ### Descripción
-
+Está primera escena fue una introducción a unity en donde tuve que implementar un terreno en el cual añadí un objeto de la Asset Store, al cual le asigné algunos  prefabs del paquete Starter Assets. Cada objeto tiene asignada una etiqueta la cual se muestra en el principio de la ejecución de la escena gracias al script subido al repositorio. 
 
 ---
 ### Visualización de la escena
